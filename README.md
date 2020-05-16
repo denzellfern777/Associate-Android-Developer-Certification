@@ -35,7 +35,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 
 
 - Write and execute a local JVM unit test
-  - [x] [[Fragmented Podcast] Episode 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/) 
+  - [ ] [[Fragmented Podcast] Episode 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/) 
   - [ ] [[Fragmented Podcast] Episode 7 Jake Wharton on Testing, SqlBrite, NotRxAndroid, RxJava and Much More](http://fragmentedpodcast.com/episodes/7/) 
   - [ ] Getting Started with Testing 
     - [ ] [Android Developer Training][testing_and_debuggin_getting_started_testing]
